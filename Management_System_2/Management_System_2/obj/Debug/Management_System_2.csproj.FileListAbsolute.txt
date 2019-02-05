@@ -1,0 +1,10 @@
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\bin\Debug\Management_System_2.exe.config
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\bin\Debug\Management_System_2.exe
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\bin\Debug\Management_System_2.pdb
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Debug\Management_System_2.csprojAssemblyReference.cache
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Debug\Management_System_2.Main.resources
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Debug\Management_System_2.Properties.Resources.resources
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Debug\Management_System_2.csproj.GenerateResource.cache
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Debug\Management_System_2.csproj.CoreCompileInputs.cache
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Debug\Management_System_2.exe
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Debug\Management_System_2.pdb

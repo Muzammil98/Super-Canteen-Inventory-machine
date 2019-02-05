@@ -1,0 +1,9 @@
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\bin\Release\Management_System_2.exe.config
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\bin\Release\Management_System_2.exe
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\bin\Release\Management_System_2.pdb
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Release\Management_System_2.Main.resources
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Release\Management_System_2.Properties.Resources.resources
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Release\Management_System_2.csproj.GenerateResource.cache
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Release\Management_System_2.csproj.CoreCompileInputs.cache
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Release\Management_System_2.exe
+C:\Users\Usama\source\repos\Management_System_2\Management_System_2\obj\Release\Management_System_2.pdb
